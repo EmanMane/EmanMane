@@ -10,7 +10,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 
 - 🔬 Continuously learning about new technologies
 - 👨‍👩‍👧‍👦 Experienced in collaborating on group projects
-- 🎸 Enjoys playing and creating music in spare time
+- 🎸 Enjoying playing and creating music in spare time
 - 📚 Dedicated to expanding programming knowledge through personal<br /> projects and academic coursework
 - 🤝 Open to opportunities for collaboration and networking
 - 📫 How to reach me: [therealemanmane@gmail.com](mailto:therealemanmane@gmail.com)
