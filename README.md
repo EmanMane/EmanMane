@@ -25,16 +25,14 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 
 [<img src='https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eman-alibali%C4%87-482139247)&nbsp;  [<img src='https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100007735907794)&nbsp;  [<img src='https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/therealemanmane/)&nbsp;[<img src='https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/6eHhY7ZhojI0Qx9odjij2R)&nbsp;  
 
-<img alt="Coding Gif" src="https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/Gif.gif" height="275" align="right"/>&nbsp;
+<img alt="Coding Gif" src="https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/Gif.gif" height="210" align="right"/>&nbsp;
  <br/>
  
 ## 👨‍💻&nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c%2B%2B.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-programming.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-sharp-logo-2.svg' height='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-css3-48.png' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-html-5.svg' width='40'/>&nbsp; 
-
-<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-java.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-javascript.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-kotlin.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-sql-60.png' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-python.svg' width='40'/>&nbsp;
+<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c%2B%2B.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-programming.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-sharp-logo-2.svg' height='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-css3-48.png' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-html-5.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-java.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-javascript.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-kotlin.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-sql-60.png' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-python.svg' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
