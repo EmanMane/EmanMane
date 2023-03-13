@@ -28,7 +28,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 <img alt="Coding Gif" src="https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/Gif.gif" height="220" align="right"/>&nbsp;
  <br/>
  
-## 👨‍💻 &nbsp;Talking to Computers Using :
+## 👨‍💻&nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
 
