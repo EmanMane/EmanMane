@@ -33,6 +33,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 ### &nbsp;- Languages
 
 <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c%2B%2B.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-programming.svg' height='40'/>&nbsp;<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-c-sharp-logo-2.svg' height='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-css3-48.png' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-html-5.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-java.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-javascript.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-kotlin.svg' width='40'/>&nbsp; <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-sql-60.png' width='40'/>&nbsp;
+'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-python.svg' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
@@ -43,6 +44,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-adobe-premiere-pro.svg' height='40'/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-fl-studio.svg" height="40"/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-blender-3d.svg" height="40"/>&nbsp;
+<img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-.net-framework.svg' height='40'/>&nbsp;
 
 <img src = 'https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-android-studio.svg' height='40'/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-intellij-idea.svg" height="40"/>&nbsp;
@@ -50,7 +52,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-texshop-48.png" height="40"/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio-code-2019.svg" height="40"/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio.svg" height="40"/>
-
+<img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-bootstrap.svg" height="40"/>&nbsp;
 
 
 ### &nbsp;<p align="center">I hope you enjoy exploring my GitHub repositories, and please feel free to reach out if you have any questions or ideas for collaboration!
