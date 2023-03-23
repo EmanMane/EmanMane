@@ -50,7 +50,7 @@ I'm 20-year-old student of electrical engineering in Sarajevo on an intention to
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-mysql-logo.svg" height="40"/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-texshop-48.png" height="40"/>&nbsp;
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio-code-2019.svg" height="40"/>&nbsp;
-<img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio.svg" height="40"/>
+![ScreenShot](https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio.svg)<img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/apps/icons8-visual-studio.svg" height="40"/>
 <img src = "https://github.com/EmanMane/emanmane/blob/main/Github%20Welcome/icons8-bootstrap.svg" height="40"/>&nbsp;
 
 
