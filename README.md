@@ -5,7 +5,7 @@
 
 
 
-I'm 20-year-old student of electrical engineering in Sarajevo on an intention to enhance as a developer and softvare engineer. I love building websites, desktop and mobile apps. I also find myself interested in music production and graphic design. In my spare time, I enjoy learning about new technologies and experimenting with different programming languages and many different software.<br /><br />
+I'm a 21-year-old student of electrical engineering in Sarajevo on an intention to enhance as a developer and softvare engineer. I love building websites, desktop and mobile apps. I also find myself interested in music production and graphic design. In my spare time, I enjoy learning about new technologies and experimenting with different programming languages and many different software.<br /><br />
 <img width="40%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/110246580/227376120-757bb583-c7a5-4aaa-8613-18caa9de981a.gif" />
 
 - 🔬 Continuously learning about new technologies
